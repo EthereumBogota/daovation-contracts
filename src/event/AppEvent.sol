@@ -6,7 +6,7 @@ import "./AppEventVariables.sol";
 import "../utils/constants.sol";
 import "../interfaces/IAppNFT.sol";
 
-contract MeetdAppEvent is MeetdAppEventVariables, Ownable {
+contract AppEvent is MeetdAppEventVariables, Ownable {
     constructor(
         address[] memory _varAdr,
         string[] memory _varStr,

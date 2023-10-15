@@ -5,7 +5,7 @@ import "@openzeppelin/token/ERC721/ERC721.sol";
 import "@openzeppelin/access/Ownable.sol";
 import "@openzeppelin/utils/Counters.sol";
 
-contract MeetdAppNFT is ERC721, Ownable {
+contract AppNFT is ERC721, Ownable {
     using Counters for Counters.Counter;
 
     Counters.Counter private _tokenIdCounter;

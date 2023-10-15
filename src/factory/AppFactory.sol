@@ -9,7 +9,7 @@ import "../NFT/AppNFT.sol";
 /// @notice Create and config New Events
 /// @dev This contract is the standard way to create a new event
 /// @author LE0xUL
-contract MeetdAppFactory {
+contract AppFactory {
     /// @notice Store the number of created events
     uint256 public numEvents;
 

@@ -1,7 +1,7 @@
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-contract MeetdAppEventVariables {
+contract AppEventVariables {
     // event variables
 
     string public eventId;

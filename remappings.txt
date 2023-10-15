@@ -1,7 +1,6 @@
 forge-std/=lib/forge-std/src/
 ds-test/=lib/forge-std/lib/ds-test/src/
 @safe-contracts=lib/safe-contracts/contracts
+@safe-core-protocol=lib/safe-core-protocol/contracts
 @openzeppelin=lib/openzeppelin-contracts/contracts
-@solmate=lib/solmate/src
-@solenv=lib/solenv/src/
-@create3=lib/create3-factory/src
+@chainlink=lib/chainlink/contracts
